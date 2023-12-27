@@ -7,12 +7,11 @@ $username = "root";
 $password = "root";
 $dbName = "Northwind";
 
-
 try {
-    $dbConnection = new PDO("mysql:host=$dbHost;dbname=$dbName", $username,
+    $dbConnection = new PDO("mysql:host=$dbHost; dbname=$dbName", $username,
         $password);
 
-    $sqlQuery = "select * from region";
+    $sqlQuery = "select * from Employee";
     $sqlStatement = $dbConnection->prepare($sqlQuery);
     $sqlStatement->execute();
 
@@ -26,6 +25,7 @@ try {
 
 
 
-$consumerObject = new Consumer("sai", "s");
+$consumerObject = new Consumer("sai krishna", "srungavarapu");
 $firstName = $consumerObject->getFirstName();
-echo $firstName;
+$lastName = $consumerObject->getLastName();
+echo $firstName ." ". $lastName;
