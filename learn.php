@@ -25,7 +25,7 @@ try {
 
 
 
-$consumerObject = new Consumer("sai", "srungavarapu");
+$consumerObject = new Consumer("sai krishna", "srungavarapu");
 $firstName = $consumerObject->getFirstName();
 $lastName = $consumerObject->getLastName();
 echo $firstName ." ". $lastName;
