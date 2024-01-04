@@ -1,7 +1,5 @@
 <?php
 
-require_once "./Consumer.php";
-
 $dbHost = "127.0.0.1";
 $username = "root";
 $password = "root";
@@ -29,3 +27,6 @@ $consumerObject = new Consumer("sai krishna", "srungavarapu");
 $firstName = $consumerObject->getFirstName();
 $lastName = $consumerObject->getLastName();
 echo $firstName ." ". $lastName;
+
+
+
