@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f272ba25-4cf2-42ab-817b-156ea45a44fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn.php" beforeDir="false" afterPath="$PROJECT_DIR$/learn.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning.php" beforeDir="false" afterPath="$PROJECT_DIR$/learning.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/sampleApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +22,17 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2a3onGsIhQQARkPOwJUkYYkVfWS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,6 +53,10 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;,
+      &quot;sqlserver.localdb&quot;,
+      &quot;derby&quot;,
+      &quot;documentdb&quot;,
       &quot;mysql&quot;
     ],
     &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
@@ -58,6 +66,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/playground/basics.php/a1" />
+      <recent name="$PROJECT_DIR$/v1" />
+      <recent name="$PROJECT_DIR$/playground" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -79,11 +90,40 @@
       <workItem from="1703556791672" duration="1255000" />
       <workItem from="1703558055631" duration="9949000" />
       <workItem from="1703607235476" duration="2218000" />
+      <workItem from="1703617494780" duration="7818000" />
+      <workItem from="1703697339525" duration="48559000" />
+      <workItem from="1704382866209" duration="17489000" />
+      <workItem from="1704474063502" duration="45000" />
+      <workItem from="1704474115029" duration="5538000" />
+      <workItem from="1704486933956" duration="11678000" />
+      <workItem from="1704816194736" duration="10758000" />
+      <workItem from="1704846717275" duration="361000" />
+      <workItem from="1704847160679" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/playground/constructor.php</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/playground/class.php</url>
+          <line>8</line>
+          <properties>
+            <option name="className" value="\fruit" />
+            <option name="methodName" value="set_name" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
