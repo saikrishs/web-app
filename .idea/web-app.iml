@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/oops-14/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/oops-14/src/models/repos" isTestSource="false" packagePrefix="Repos\" />
+      <sourceFolder url="file://$MODULE_DIR$/oops-15/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/oops-14/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/oops-14/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/oops-14/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/oops-15/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

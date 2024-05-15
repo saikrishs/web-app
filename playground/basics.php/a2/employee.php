@@ -4,8 +4,15 @@ class employee {
     public function getEmployeeData(): array
     {
       return [
-          "sai" => ['ssc' => 480, 'inter' => 910, 'ms' => 510],
-          "vamsi" => ['ssc' => 490, 'inter' => 960, 'ms' => 810],
+          "sai" => [
+            'ssc' => 480, 
+          'inter' => 910, 
+          'ms' => 510],
+          
+          "vamsi" => [
+            'ssc' => 490,
+           'inter' => 960,
+            'ms' => 810],
           ];
     }
     public function getSSCScore($name): int

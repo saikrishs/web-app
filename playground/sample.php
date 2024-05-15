@@ -10,7 +10,7 @@ $dbName = "Northwind";
 try {
     $dbConnection = new PDO("mysql:host=$dbHost;dbname=$dbName", $username, $password);
 
-    $sqlQuery = "select * from SalesOrder where employeeId = 5 and shipperid = 2";
+    $sqlQuery = "select * from SalesOrder";
     $sqlStatement = $dbConnection->prepare($sqlQuery);
     $sqlStatement->execute();
 

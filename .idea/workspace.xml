@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f272ba25-4cf2-42ab-817b-156ea45a44fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="59b8b876-95bd-434e-8bb9-e448a196b17e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f/storage_v2/_src_/schema/Northwind.bQ7mkQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f/storage_v2/_src_/schema/mysql.osA4Bg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/376e53b6-f351-4b23-bf25-99b32033622f/storage_v2/_src_/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V3/StudentData.php" beforeDir="false" afterPath="$PROJECT_DIR$/V3/StudentData.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground/basics.php/a2/employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/playground/basics.php/a2/employee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground/basics.php/a2/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/playground/basics.php/a2/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground/sample.php" beforeDir="false" afterPath="$PROJECT_DIR$/playground/sample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/v1/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/oops-15/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/oops-14/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -22,56 +41,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/oops-14/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/oops-14/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/oops-14/vendor/composer" />
+      <path value="$PROJECT_DIR$/oops-15/vendor/composer" />
+    </include_path>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2a3onGsIhQQARkPOwJUkYYkVfWS" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gVBnrPnnVfn16ajOKtK9O8nCku" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/saisrungavarapu/projects/web-app&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlserver&quot;,
-      &quot;sqlserver.localdb&quot;,
-      &quot;derby&quot;,
-      &quot;documentdb&quot;,
-      &quot;mysql&quot;
-    ],
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PHP&quot;
-    ]
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/playground/basics.php/a1" />
-      <recent name="$PROJECT_DIR$/v1" />
-      <recent name="$PROJECT_DIR$/playground" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,51 +77,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f272ba25-4cf2-42ab-817b-156ea45a44fa" name="Changes" comment="" />
-      <created>1703556790213</created>
+      <changelist id="59b8b876-95bd-434e-8bb9-e448a196b17e" name="Changes" comment="" />
+      <created>1715773035529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1703556790213</updated>
-      <workItem from="1703556791672" duration="1255000" />
-      <workItem from="1703558055631" duration="9949000" />
-      <workItem from="1703607235476" duration="2218000" />
-      <workItem from="1703617494780" duration="7818000" />
-      <workItem from="1703697339525" duration="48559000" />
-      <workItem from="1704382866209" duration="17489000" />
-      <workItem from="1704474063502" duration="45000" />
-      <workItem from="1704474115029" duration="5538000" />
-      <workItem from="1704486933956" duration="11678000" />
-      <workItem from="1704816194736" duration="10758000" />
-      <workItem from="1704846717275" duration="361000" />
-      <workItem from="1704847160679" duration="598000" />
+      <updated>1715773035529</updated>
+      <workItem from="1715773037912" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/playground/constructor.php</url>
-          <line>10</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php-line-method">
-          <url>file://$PROJECT_DIR$/playground/class.php</url>
-          <line>8</line>
-          <properties>
-            <option name="className" value="\fruit" />
-            <option name="methodName" value="set_name" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>

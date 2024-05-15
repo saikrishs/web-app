@@ -1,3 +1,4 @@
+
 <?php
 
 $dbHost = "127.0.0.1";
@@ -9,7 +10,7 @@ try {
     $dbConnection = new PDO("mysql:host=$dbHost; dbname=$dbName", $username,
         $password);
 
-    $sqlQuery = "select * from Employee";
+    $sqlQuery = "select * from Customer";
     $sqlStatement = $dbConnection->prepare($sqlQuery);
     $sqlStatement->execute();
 
